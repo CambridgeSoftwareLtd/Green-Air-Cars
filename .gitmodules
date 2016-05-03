@@ -1,0 +1,126 @@
+[submodule "vehicle-ms"]
+	path = vehicle-ms
+	url = https://github.com/GreenAirCars-Spark/vehicle-ms.git
+[submodule "transaction-ms"]
+	path = transaction-ms
+	url = https://github.com/GreenAirCars-Spark/transaction-ms.git
+[submodule "status-ms"]
+	path = status-ms
+	url = https://github.com/GreenAirCars-Spark/status-ms.git
+[submodule "pricing-ms"]
+	path = pricing-ms
+	url = https://github.com/GreenAirCars-Spark/pricing-ms.git
+[submodule "payment-ms"]
+	path = payment-ms
+	url = https://github.com/GreenAirCars-Spark/payment-ms.git
+[submodule "passenger-ms"]
+	path = passenger-ms
+	url = https://github.com/GreenAirCars-Spark/passenger-ms.git
+[submodule "passenger-api"]
+	path = passenger-api
+	url = https://github.com/GreenAirCars-Spark/passenger-api.git
+[submodule "organisation-ms"]
+	path = organisation-ms
+	url = https://github.com/GreenAirCars-Spark/organisation-ms.git
+[submodule "operational-area-ms"]
+	path = operational-area-ms
+	url = https://github.com/GreenAirCars-Spark/operational-area-ms.git
+[submodule "market-ms"]
+	path = market-ms
+	url = https://github.com/GreenAirCars-Spark/market-ms.git
+[submodule "logs-ms"]
+	path = logs-ms
+	url = https://github.com/GreenAirCars-Spark/logs-ms.git
+[submodule "invoice-ms"]
+	path = invoice-ms
+	url = https://github.com/GreenAirCars-Spark/invoice-ms.git
+[submodule "fleet-api"]
+	path = fleet-api
+	url = https://github.com/GreenAirCars-Spark/fleet-api.git
+[submodule "fleetanddriver-ms"]
+	path = fleetanddriver-ms
+	url = https://github.com/GreenAirCars-Spark/fleetanddriver-ms.git
+[submodule "driver-api"]
+	path = driver-api
+	url = https://github.com/GreenAirCars-Spark/driver-api.git
+[submodule "dispatch-ms"]
+	path = dispatch-ms
+	url = https://github.com/GreenAirCars-Spark/dispatch-ms.git
+[submodule "dispatcher-ms"]
+	path = dispatcher-ms
+	url = https://github.com/GreenAirCars-Spark/dispatcher-ms.git
+[submodule "crumbs-ms"]
+	path = crumbs-ms
+	url = https://github.com/GreenAirCars-Spark/crumbs-ms.git
+[submodule "booking-ms"]
+	path = booking-ms
+	url = https://github.com/GreenAirCars-Spark/booking-ms.git
+[submodule "spiffy-request"]
+	path = spiffy-request
+	url = https://github.com/GreenAirCars-Spark/spiffy-request.git
+[submodule "appdata-ms"]
+	path = appdata-ms
+	url = https://github.com/GreenAirCars-Spark/appdata-ms.git
+[submodule "dns"]
+	path = dns
+	url = https://github.com/GreenAirCars-Spark/dns.git
+[submodule "spiffy-router"]
+	path = spiffy-router
+	url = https://github.com/GreenAirCars-Spark/spiffy-router.git
+[submodule "shift-schema"]
+	path = shift-schema
+	url = https://github.com/GreenAirCars-Spark/shift-schema.git
+[submodule "go.pubnub"]
+	path = go.pubnub
+	url = https://github.com/GreenAirCars-Spark/go.pubnub.git
+[submodule "braintree-go"]
+	path = braintree-go
+	url = https://github.com/GreenAirCars-Spark/braintree-go.git
+[submodule "portal"]
+	path = portal
+	url = https://github.com/GreenAirCars-Spark/portal.git
+[submodule "web_app"]
+	path = web_app
+	url = https://github.com/GreenAirCars-Spark/web_app.git
+[submodule "android-passenger-app"]
+	path = android-passenger-app
+	url = https://github.com/GreenAirCars-Spark/android-passenger-app.git
+[submodule "shift-android-driver-app"]
+	path = shift-android-driver-app
+	url = https://github.com/GreenAirCars-Spark/shift-android-driver-app.git
+[submodule "shift-ios-driver-app"]
+	path = shift-ios-driver-app
+	url = https://github.com/GreenAirCars-Spark/shift-ios-driver-app.git
+[submodule "shift-ios-passenger-app"]
+	path = shift-ios-passenger-app
+	url = https://github.com/GreenAirCars-Spark/shift-ios-passenger-app.git
+[submodule "projectspark"]
+	path = projectspark
+	url = https://github.com/GreenAirCars-Spark/projectspark.git
+[submodule "demo_shift-booking-ms"]
+	path = demo_shift-booking-ms
+	url = https://github.com/GreenAirCars-Spark/demo_shift-booking-ms
+[submodule "gorequest"]
+	path = gorequest
+	url = https://github.com/GreenAirCars-Spark/gorequest
+[submodule "booking-api"]
+	path = booking-api
+	url = https://github.com/GreenAirCars-Spark/booking-api
+[submodule "intercom-go"]
+	path = intercom-go
+	url = https://github.com/GreenAirCars-Spark/intercom-go
+[submodule "httpmock"]
+	path = httpmock
+	url = https://github.com/GreenAirCars-Spark/httpmock
+[submodule "deploylogger"]
+	path = deploylogger
+	url = https://github.com/GreenAirCars-Spark/deploylogger
+[submodule "net"]
+	path = net
+	url = https://github.com/GreenAirCars-Spark/net
+[submodule "oauth2"]
+	path = oauth2
+	url = https://github.com/GreenAirCars-Spark/oauth2
+[submodule "gofpdf"]
+	path = gofpdf
+	url = https://github.com/GreenAirCars-Spark/gofpdf
